@@ -23,17 +23,17 @@ The topic was chosen due to the global presence of Russian and Ukrainian migrant
 The atlas consists of **four maps** focusing on the Ukrainian and Russian diaspora in Europe and post-Soviet countries:
 
 1. **Main Destinations (2020):** Radial flow map showing migration trends for both diasporas.
- [Main destinations](./Trends.pdf)  
+ [Main destinations](./Trends.png)  
 
 2. **Diaspora Population by Country:** Graduated symbol maps comparing population sizes.
-[Comparison Ukrainian and Russian Diaspora](./comparisondiasporas.pdf)
+[Comparison Ukrainian and Russian Diaspora](./comparisondiasporas.png)
 
 
 4. **Ukrainian Migration 2020 vs. Post-2022 Exodus:** Shows impact of the war on migration trends.
-[Ukrainian Diaspora in Europe and post-Soviet countries in 2022 and after the start of the Russian invasion](./Comparison20202022.pdf)
+[Ukrainian Diaspora in Europe and post-Soviet countries in 2022 and after the start of the Russian invasion](./Comparison20202022.png)
 
 5. **Ukrainian Exodus vs. Country Stances on Russia:** Compares refugee flows with countries’ political positions on the invasion.
-[Comparison between the Ukrainian exodus and stances on Russia](./Sanctions2022.pdf)  
+[Comparison between the Ukrainian exodus and stances on Russia](./Sanctions2022.png)  
 
 ---
 This project was part of my academic work for the **Master in Geopolitics and Strategic Studies** at **University Carlos III of Madrid**.
